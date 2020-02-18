@@ -1,0 +1,6 @@
+framework module TATMediaSDK {
+  umbrella header "TATMediaSDK.h"
+
+  export *
+  module * { export * }
+}
