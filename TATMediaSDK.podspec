@@ -4,10 +4,10 @@ Pod::Spec.new do |s|
   s.summary  = 'An easy way to integrate AD'
   s.description = 'TATMediaSDK provides an easy way to integrate AD'
 
-  s.homepage = 'https://github.com/Wuleslie/TATMediaSDK'
+  s.homepage = 'https://github.com/tuia-fed/TATMediaSDK'
   s.license  = { :type => 'MIT', :file => 'LICENSE' }
-  s.author   = { 'wuleslie' => 'wuleslie@outlook.com' }
-  s.source   = { :git => 'https://github.com/Wuleslie/TATMediaSDK.git', :tag => s.version.to_s }
+  s.author   = { 'xuesong-iOS' => 'wurui1@tuia.cn' }
+  s.source   = { :git => 'https://github.com/tuia-fed/TATMediaSDK.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '9.0'
 
