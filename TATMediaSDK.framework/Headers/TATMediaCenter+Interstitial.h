@@ -8,13 +8,16 @@
 
 #import "TATMediaCenter.h"
 
+@class TATBaseAdView;
+
 @interface TATMediaCenter (Interstitial)
 
 /**
  * 展示插屏AD
+ * @version 1.1.0.0
  */
-+ (void)showInterstitialWithSlotId:(NSString *)slotId;
++ (TATBaseAdView *)showInterstitialWithSlotId:(NSString *)slotId;
 
-+ (void)showInterstitialWithSlotId:(NSString *)slotId resultBlock:(void(^)(BOOL result, NSError *error))resultBlock closeBlock:(void(^)(void))closeBlock;
++ (TATBaseAdView *)showInterstitialWithSlotId:(NSString *)slotId resultBlock:(void(^)(BOOL result, NSError *error))resultBlock closeBlock:(void(^)(void))closeBlock;
 
 @end

@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/TATBaseAdView.h</key>
+		<data>
+		mX7D+o2Uv0jbmyG3V2X/62VLlxg=
+		</data>
 		<key>Headers/TATCustomAdModel.h</key>
 		<data>
 		YbVpiPwsoLDSLg45z/l27bZcdT8=
@@ -14,19 +18,19 @@
 		</data>
 		<key>Headers/TATMediaCenter+Interstitial.h</key>
 		<data>
-		GJr61sfdYMH3/icJUI/WSrPFTyM=
+		re8AO/6VuaA/2wqEpks6A1I3R3c=
 		</data>
 		<key>Headers/TATMediaCenter+Standard.h</key>
 		<data>
-		tIe2K0ytEUUqDb4aNgUpDnU8j7M=
+		7YDOXLapgUbYOLEIh/obvh/L15g=
 		</data>
 		<key>Headers/TATMediaCenter.h</key>
 		<data>
-		dXr0x+uLLAuxPrQZIj+XCwCxGPg=
+		2FE6IFTsalz+Bw3pIr7OEPhcntM=
 		</data>
 		<key>Headers/TATMediaSDK.h</key>
 		<data>
-		Obl0zZYXf8q75pxGSVHJV69Tmmg=
+		3EvUrwcOG5A0bA5K6Wv7mxTt7DA=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -39,6 +43,17 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/TATBaseAdView.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mX7D+o2Uv0jbmyG3V2X/62VLlxg=
+			</data>
+			<key>hash2</key>
+			<data>
+			ELFmSL4wrDKDQhRrcF+cCaRrIwc8nIJLOyOAhtlqMwM=
+			</data>
+		</dict>
 		<key>Headers/TATCustomAdModel.h</key>
 		<dict>
 			<key>hash</key>
@@ -65,44 +80,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			GJr61sfdYMH3/icJUI/WSrPFTyM=
+			re8AO/6VuaA/2wqEpks6A1I3R3c=
 			</data>
 			<key>hash2</key>
 			<data>
-			/iPpBg42pxzrQG3nNGRMrHxYCkdPMD3G1dosmMC68vw=
+			QaO8m1UCILaac8MxbywvKp8qX1g99VHEr/QkoViJIs8=
 			</data>
 		</dict>
 		<key>Headers/TATMediaCenter+Standard.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tIe2K0ytEUUqDb4aNgUpDnU8j7M=
+			7YDOXLapgUbYOLEIh/obvh/L15g=
 			</data>
 			<key>hash2</key>
 			<data>
-			Y28Ea75KhYOk7zG8sqxpp+Al4oCO70iOCZwxUtfduxU=
+			Aespl+rXIxZ5DxRyslsyhNdH59VQ+XgAe4Kx6uw7cnk=
 			</data>
 		</dict>
 		<key>Headers/TATMediaCenter.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			dXr0x+uLLAuxPrQZIj+XCwCxGPg=
+			2FE6IFTsalz+Bw3pIr7OEPhcntM=
 			</data>
 			<key>hash2</key>
 			<data>
-			SHGufF0SNei5xVKRa5dMaAitpa8jlCVY66CWTFSohps=
+			Ap+CsJAMGnEe1pTEjDhVDSuW8nCK+wX58PfL1N4ZHmk=
 			</data>
 		</dict>
 		<key>Headers/TATMediaSDK.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Obl0zZYXf8q75pxGSVHJV69Tmmg=
+			3EvUrwcOG5A0bA5K6Wv7mxTt7DA=
 			</data>
 			<key>hash2</key>
 			<data>
-			MH6RI/cpPLT8tyK79wvTPdzQ2+Jbs9t1Pqnag65MjpM=
+			59wahAnO+oJOd5FnUoO42BYDHXoISBhYaIoRTS7baog=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

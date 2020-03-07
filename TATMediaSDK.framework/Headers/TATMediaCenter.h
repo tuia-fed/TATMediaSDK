@@ -25,6 +25,8 @@ NS_ASSUME_NONNULL_BEGIN
 typedef void(^TATRewardHandler)(NSString * _Nullable rewardJson);
 typedef void(^TATCloseHandler)(NSString * _Nullable closeJson);
 
+typedef void(^TATCloseH5Block)(NSString * _Nullable slotId);
+
 @interface TATMediaCenter : NSObject
 
 /**
@@ -35,6 +37,10 @@ typedef void(^TATCloseHandler)(NSString * _Nullable closeJson);
 * 关闭激励类型AD时的回调
 */
 @property (nonatomic, copy) TATCloseHandler closeHandler;
+/**
+* 关闭活动页的回调
+*/
+@property (nonatomic, copy) TATCloseH5Block closeH5Block;
 
 + (instancetype)sharedInstance;
 /**
