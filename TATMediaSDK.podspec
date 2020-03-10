@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name     = 'TATMediaSDK'
-  s.version  = '1.1.1.0'
+  s.version  = '1.1.1.1'
   s.summary  = 'An easy way to integrate AD.'
   s.description = 'TATMediaSDK provides an easy way to integrate AD.'
 
@@ -20,5 +20,6 @@ Pod::Spec.new do |s|
   s.libraries    = 'z.1'
 
   #s.dependency 'AFNetworking', '~>3.0'
+  s.dependency 'WebViewJavascriptBridge', '~> 6.0'
   
 end
