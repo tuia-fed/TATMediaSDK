@@ -11,11 +11,6 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-typedef NS_ENUM(NSUInteger, TATNativeAdType){
-    TATNativeAdTypeInterstitial, // 插屏式
-    TATNativeAdTypeEmbed, // 嵌入式
-};
-
 @class TATBaseAdView;
 
 @interface TATMediaCenter (Native)
