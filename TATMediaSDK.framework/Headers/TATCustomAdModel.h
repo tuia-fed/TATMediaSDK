@@ -34,6 +34,15 @@ NS_ASSUME_NONNULL_BEGIN
  素材点击上报接口
  */
 @property (nonatomic, copy) NSString *clickUrl;
+/**
+ 素材标题，仅当广告位素材类型为图文时回传
+ */
+@property (nonatomic, copy) NSString *extTitle;
+/**
+ 素材描述，仅当广告位素材类型为图文时回传
+ */
+@property (nonatomic, copy) NSString *extDesc;
+
 
 - (id)initWithMediaModel:(TATReturnMediaModel *)mediaModel;
 
