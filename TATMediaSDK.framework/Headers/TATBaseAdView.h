@@ -10,6 +10,7 @@
 
 
 typedef void(^TATClickAdBlock)(NSString * _Nullable slotId);
+typedef void(^TATCloseAdBlock)(void);
 
 @interface TATBaseAdView : UIView
 /**
@@ -17,5 +18,9 @@ typedef void(^TATClickAdBlock)(NSString * _Nullable slotId);
 */
 @property (nonatomic, copy) TATClickAdBlock _Nullable clickAdBlock;
 
+/**
+* 关闭事件的回调
+*/
+@property (nonatomic, copy) TATCloseAdBlock _Nullable closeBlock;
 
 @end

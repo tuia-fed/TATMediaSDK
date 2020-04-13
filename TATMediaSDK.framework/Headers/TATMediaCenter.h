@@ -27,6 +27,8 @@ typedef void(^TATCloseHandler)(NSString * _Nullable closeJson);
 
 typedef void(^TATCloseH5Block)(NSString * _Nullable slotId);
 
+@class TATAdConfiguration;
+
 @interface TATMediaCenter : NSObject
 
 /**

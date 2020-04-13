@@ -8,8 +8,6 @@
 
 #import "TATMediaCenter.h"
 
-NS_ASSUME_NONNULL_BEGIN
-
 @class TATCustomAdModel;
 
 @interface TATMediaCenter (Custom)
@@ -19,6 +17,8 @@ NS_ASSUME_NONNULL_BEGIN
  * @param completion 如果请求成功，则回调adModel，error为空；请求失败，则返回error。也需考虑接口数据异常，error、model均为空的情况。
  */
 + (void)fetchCustomAdWithSlotId:(NSString *)slotId completion:(void(^)(NSError *error, TATCustomAdModel *model))completion;
+
++ (void)fetchCustomAdWithSlotId:(NSString *)slotId configuration:(TATAdConfiguration *)adConfig completion:(void(^)(NSError *error, TATCustomAdModel *model))completion;
 
 /**
  * 自定义AD曝光上报
@@ -32,6 +32,12 @@ NS_ASSUME_NONNULL_BEGIN
  */
 + (void)reportClickWithURL:(NSString *)clickUrl;
 
-@end
+/**
+* 加载自定义广告的活动页面（推荐使用）
+* @param urlString 活动链接，必传
+* @param slotId 广告位ID，非必传
+* @param pageTitle 活动标题，非必传
+*/
++ (BOOL)loadActivityURL:(NSString *)urlString slotId:(NSString *)slotId title:(NSString *)pageTitle;
 
-NS_ASSUME_NONNULL_END
+@end

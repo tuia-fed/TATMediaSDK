@@ -14,6 +14,8 @@
 #import "TATCustomAdModel.h"
 #import "TATMediaCenter+Native.h"
 #import "TATBaseAdView.h"
+#import "TATAdConfiguration.h"
+#import "TATLaunchAdConfiguration.h"
 
 //! Project version number for TATMediaSDK.
 FOUNDATION_EXPORT double TATMediaSDKVersionNumber;

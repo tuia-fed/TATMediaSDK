@@ -20,4 +20,6 @@
 
 + (TATBaseAdView *)showInterstitialWithSlotId:(NSString *)slotId resultBlock:(void(^)(BOOL result, NSError *error))resultBlock closeBlock:(void(^)(void))closeBlock;
 
++ (TATBaseAdView *)showInterstitialWithSlotId:(NSString *)slotId configuration:(TATAdConfiguration *)adConfig resultBlock:(void(^)(BOOL result, NSError *error))resultBlock;
+
 @end
