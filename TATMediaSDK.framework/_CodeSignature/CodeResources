@@ -18,7 +18,7 @@
 		</data>
 		<key>Headers/TATInfoFlowAdConfiguration.h</key>
 		<data>
-		2nAnFCefDn0cHYwWuM1ktWvLDFg=
+		KH5SxXLcQgZ1mKQlObCyehUhTBs=
 		</data>
 		<key>Headers/TATLaunchAdConfiguration.h</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Headers/TATMediaCenter+Native.h</key>
 		<data>
-		zmB+fLvbfvGICRLP+qn4Wm7j/AA=
+		Qi0bzB1BgBbDjU1Eo1Vey/oR7ds=
 		</data>
 		<key>Headers/TATMediaCenter+Standard.h</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Headers/TATMediaCenter.h</key>
 		<data>
-		7pXhtzVD6qE6l1pYT8IED4zwBu0=
+		936zYogbopKdiQmhXAFVqG9YXoA=
 		</data>
 		<key>Headers/TATMediaSDK.h</key>
 		<data>
@@ -96,11 +96,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2nAnFCefDn0cHYwWuM1ktWvLDFg=
+			KH5SxXLcQgZ1mKQlObCyehUhTBs=
 			</data>
 			<key>hash2</key>
 			<data>
-			TZAFjFgjN68FEP+eY42/2KyS6AqFH4jWk4y/GFBGNls=
+			AqX6bUXanmuwbFRm+CEPDJwh8VcEXBJ95kQ2Zks/SCk=
 			</data>
 		</dict>
 		<key>Headers/TATLaunchAdConfiguration.h</key>
@@ -140,11 +140,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			zmB+fLvbfvGICRLP+qn4Wm7j/AA=
+			Qi0bzB1BgBbDjU1Eo1Vey/oR7ds=
 			</data>
 			<key>hash2</key>
 			<data>
-			sSQi0KOTm7vUfn+Cjmy+4GtALORLSavlajAuI+/kOPQ=
+			RcYGWzzZBZjxc2OMLPNXTYrfnJfb+5R7gWN3I7efK94=
 			</data>
 		</dict>
 		<key>Headers/TATMediaCenter+Standard.h</key>
@@ -162,11 +162,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7pXhtzVD6qE6l1pYT8IED4zwBu0=
+			936zYogbopKdiQmhXAFVqG9YXoA=
 			</data>
 			<key>hash2</key>
 			<data>
-			Xj3Dk8OlYHhEZ7cMdmvYjUHgO1iQUJTIe0RXNaFUdIQ=
+			uWRR7ZYFtb3qYehRgm+Pw3c6Kt0q6GFJwkfL9lxNjNc=
 			</data>
 		</dict>
 		<key>Headers/TATMediaSDK.h</key>

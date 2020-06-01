@@ -24,6 +24,10 @@ NS_ASSUME_NONNULL_BEGIN
  */
 @property (nonatomic, assign) CGFloat width;
 /**
+ 图片大小，默认CGSizeZero，内部根据素材大小自适应
+ */
+@property (nonatomic, assign) CGSize imageSize;
+/**
  图文内容整体的边距，要求均为正数，默认（16，16，16，16）
  */
 @property (nonatomic, assign) UIEdgeInsets edgeInsets;

@@ -66,6 +66,12 @@ typedef void(^TATCloseH5Block)(NSString * _Nullable slotId);
 */
 + (void)setUserId:(NSString *)userId;
 
+/**
+ 用户授权数据采集
+ @param authFlag 是否授权
+ */
++ (void)userAuthDataCollection:(BOOL)authFlag;
+
 @end
 
 NS_ASSUME_NONNULL_END
