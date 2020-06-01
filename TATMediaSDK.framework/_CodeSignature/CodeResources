@@ -16,6 +16,10 @@
 		<data>
 		lu9JpQ3Vh3fZZZd9pA2h4tFBy6k=
 		</data>
+		<key>Headers/TATInfoFlowAdConfiguration.h</key>
+		<data>
+		2nAnFCefDn0cHYwWuM1ktWvLDFg=
+		</data>
 		<key>Headers/TATLaunchAdConfiguration.h</key>
 		<data>
 		+9u2JPNXOBi7GpiYolFojO35sxE=
@@ -30,11 +34,11 @@
 		</data>
 		<key>Headers/TATMediaCenter+Native.h</key>
 		<data>
-		Qi0bzB1BgBbDjU1Eo1Vey/oR7ds=
+		zmB+fLvbfvGICRLP+qn4Wm7j/AA=
 		</data>
 		<key>Headers/TATMediaCenter+Standard.h</key>
 		<data>
-		nqZNr97xCFHWSj+kytT4rfdIBAE=
+		eYergErO1sdZq0NZUuuvOevKl70=
 		</data>
 		<key>Headers/TATMediaCenter.h</key>
 		<data>
@@ -42,7 +46,7 @@
 		</data>
 		<key>Headers/TATMediaSDK.h</key>
 		<data>
-		CmL3K8K6GPcoIdcOI/Gi28d6OVQ=
+		ZfzpBlK4mbCJ0Mz+5KAOvtTL1VQ=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -88,6 +92,17 @@
 			dqRWJJ7e2CsBsMjzV69nkOuopSJ7ZG2jt2WoseQOpo4=
 			</data>
 		</dict>
+		<key>Headers/TATInfoFlowAdConfiguration.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2nAnFCefDn0cHYwWuM1ktWvLDFg=
+			</data>
+			<key>hash2</key>
+			<data>
+			TZAFjFgjN68FEP+eY42/2KyS6AqFH4jWk4y/GFBGNls=
+			</data>
+		</dict>
 		<key>Headers/TATLaunchAdConfiguration.h</key>
 		<dict>
 			<key>hash</key>
@@ -125,22 +140,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Qi0bzB1BgBbDjU1Eo1Vey/oR7ds=
+			zmB+fLvbfvGICRLP+qn4Wm7j/AA=
 			</data>
 			<key>hash2</key>
 			<data>
-			RcYGWzzZBZjxc2OMLPNXTYrfnJfb+5R7gWN3I7efK94=
+			sSQi0KOTm7vUfn+Cjmy+4GtALORLSavlajAuI+/kOPQ=
 			</data>
 		</dict>
 		<key>Headers/TATMediaCenter+Standard.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			nqZNr97xCFHWSj+kytT4rfdIBAE=
+			eYergErO1sdZq0NZUuuvOevKl70=
 			</data>
 			<key>hash2</key>
 			<data>
-			nkzjFy97bXQbdqazcZHnWptHFi7rg9nW8fvnr7m3gjQ=
+			h9/WfCrX0VVONX39vp1sJazMP6MVRU8benmwJ08r6t0=
 			</data>
 		</dict>
 		<key>Headers/TATMediaCenter.h</key>
@@ -158,11 +173,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			CmL3K8K6GPcoIdcOI/Gi28d6OVQ=
+			ZfzpBlK4mbCJ0Mz+5KAOvtTL1VQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			a/+yzT5dbhraZiiHVJlm2MOcmJVQO9wowqLBws7gCaE=
+			H/qWzUoEv2n+6K6Y3kB7cB3DcU5xtyxdn28au1Zp2ZU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

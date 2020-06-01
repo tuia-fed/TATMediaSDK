@@ -33,9 +33,9 @@
 /**
  * 原生插屏广告位获取入口素材
  */
-+ (void)fetchNativeAdResourceBySlotId:(NSString *)slotId resultBlock:(void(^)(UIImage *image, NSString *exposureUrl, NSError *error))resultBlock;
++ (void)fetchNativeAdResourceBySlotId:(NSString *)slotId resultBlock:(void(^)(UIImage *image, NSError *error))resultBlock;
 
-+ (void)fetchNativeAdResourceBySlotId:(NSString *)slotId configuration:(TATAdConfiguration *)adConfig resultBlock:(void(^)(UIImage *image, NSString *exposureUrl, NSError *error))resultBlock;
++ (void)fetchNativeAdResourceBySlotId:(NSString *)slotId configuration:(TATAdConfiguration *)adConfig resultBlock:(void(^)(UIImage *image, NSError *error))resultBlock;
 
 
 /**

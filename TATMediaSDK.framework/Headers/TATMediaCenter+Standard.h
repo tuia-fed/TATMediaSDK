@@ -11,6 +11,7 @@
 
 @class TATBaseAdView;
 @class TATLaunchAdConfiguration;
+@class TATInfoFlowAdConfiguration;
 
 @interface TATMediaCenter (Standard)
 
@@ -50,7 +51,7 @@
 * 信息流AD，支持动态配置appKey、appSecret，若不需要，可选用上面的接口
 * @version V2.0
 */
-+ (TATBaseAdView *)initInfoFlowAdWithSlotId:(NSString *)slotId configuration:(TATAdConfiguration *)adConfig resultBlock:(void(^)(BOOL result, NSError *error))resultBlock;
++ (TATBaseAdView *)initInfoFlowAdWithSlotId:(NSString *)slotId configuration:(TATInfoFlowAdConfiguration *)adConfig resultBlock:(void(^)(BOOL result, NSError *error))resultBlock;
 
 @end
 
