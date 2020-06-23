@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name     = 'TATMediaSDK'
-  s.version  = '2.6.2.0'
+  s.version  = '2.6.5.0'
   s.summary  = 'An easy way to integrate AD.'
   s.description = 'TATMediaSDK provides an easy way to integrate AD.'
 

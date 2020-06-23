@@ -40,13 +40,21 @@
 		<data>
 		eYergErO1sdZq0NZUuuvOevKl70=
 		</data>
+		<key>Headers/TATMediaCenter+TextLink.h</key>
+		<data>
+		QrQohuvwK4x8st+9QdDQylT5zmU=
+		</data>
 		<key>Headers/TATMediaCenter.h</key>
 		<data>
 		936zYogbopKdiQmhXAFVqG9YXoA=
 		</data>
 		<key>Headers/TATMediaSDK.h</key>
 		<data>
-		ZfzpBlK4mbCJ0Mz+5KAOvtTL1VQ=
+		Bcboh7HIs7q9NZeGypgCBSf3G5Q=
+		</data>
+		<key>Headers/TATTextLinkAdConfiguration.h</key>
+		<data>
+		UTAqvaUbKpI1NNVCsgOsfcA1GiE=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -158,6 +166,17 @@
 			h9/WfCrX0VVONX39vp1sJazMP6MVRU8benmwJ08r6t0=
 			</data>
 		</dict>
+		<key>Headers/TATMediaCenter+TextLink.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			QrQohuvwK4x8st+9QdDQylT5zmU=
+			</data>
+			<key>hash2</key>
+			<data>
+			WBxY35bAgjsw6zFo3WxaPh3bsKW0E/ZYt3zIPFDFWt0=
+			</data>
+		</dict>
 		<key>Headers/TATMediaCenter.h</key>
 		<dict>
 			<key>hash</key>
@@ -173,11 +192,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ZfzpBlK4mbCJ0Mz+5KAOvtTL1VQ=
+			Bcboh7HIs7q9NZeGypgCBSf3G5Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			H/qWzUoEv2n+6K6Y3kB7cB3DcU5xtyxdn28au1Zp2ZU=
+			Vzo9pd00Ii8tEt8pOICO+lYYdl3rA5KWw01kmrZOLuk=
+			</data>
+		</dict>
+		<key>Headers/TATTextLinkAdConfiguration.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			UTAqvaUbKpI1NNVCsgOsfcA1GiE=
+			</data>
+			<key>hash2</key>
+			<data>
+			TVq4+aylqMgANe3m22AQWAQJqd4jxRFfQ8zVt+WYgz8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
