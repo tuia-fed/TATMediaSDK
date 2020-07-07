@@ -26,7 +26,7 @@ NS_ASSUME_NONNULL_BEGIN
 /**
 原生插屏广告位活动页加载时是否显示loading动画，默认为YES
 */
-@property (nonatomic, assign) BOOL needLoading;
+@property (nonatomic, assign) BOOL needLoading __attribute__((deprecated("loading动画已失效")));
 
 @end
 

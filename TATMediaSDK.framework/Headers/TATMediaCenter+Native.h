@@ -16,17 +16,27 @@
 
 /**
 * 全屏展示的原生插屏AD
-* @param needLoading 是否需要展示loading动画
 */
-+ (TATBaseAdView *)showFullModeAdWithSlotId:(NSString *)slotId loadingOption:(BOOL)needLoading resultBlock:(void(^)(BOOL result, NSError *error))resultBlock;
++ (TATBaseAdView *)showFullModeAdWithSlotId:(NSString *)slotId resultBlock:(void(^)(BOOL result, NSError *error))resultBlock;
+
+/**
+* 全屏展示的原生插屏AD
+* @param needLoading 是否需要展示loading动画（已失效）
+*/
++ (TATBaseAdView *)showFullModeAdWithSlotId:(NSString *)slotId loadingOption:(BOOL)needLoading resultBlock:(void(^)(BOOL result, NSError *error))resultBlock DEPRECATED_MSG_ATTRIBUTE("Please use showFullModeAdWithSlotId:resultBlock: instead");
 
 + (TATBaseAdView *)showFullModeAdWithSlotId:(NSString *)slotId configuration:(TATAdConfiguration *)adConfig resultBlock:(void(^)(BOOL result, NSError *error))resultBlock;
 
 /**
 * 嵌入式原生插屏AD
-* @param needLoading 是否需要展示loading动画
 */
-+ (TATBaseAdView *)initEmbedAdWithSlotId:(NSString *)slotId loadingOption:(BOOL)needLoading resultBlock:(void(^)(BOOL result, NSError *error))resultBlock;
++ (TATBaseAdView *)initEmbedAdWithSlotId:(NSString *)slotId resultBlock:(void(^)(BOOL result, NSError *error))resultBlock;
+
+/**
+* 嵌入式原生插屏AD
+* @param needLoading 是否需要展示loading动画（已失效）
+*/
++ (TATBaseAdView *)initEmbedAdWithSlotId:(NSString *)slotId loadingOption:(BOOL)needLoading resultBlock:(void(^)(BOOL result, NSError *error))resultBlock DEPRECATED_MSG_ATTRIBUTE("Please use initEmbedAdWithSlotId:resultBlock: instead");
 
 + (TATBaseAdView *)initEmbedAdWithSlotId:(NSString *)slotId configuration:(TATAdConfiguration *)adConfig resultBlock:(void(^)(BOOL result, NSError *error))resultBlock;
 

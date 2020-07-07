@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/TATAdConfiguration.h</key>
 		<data>
-		MHEj+Qfk+OQekVViFSyGsh0i5aM=
+		N7apBf2WrPdaiKeez87dHJuV1hg=
 		</data>
 		<key>Headers/TATBaseAdView.h</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Headers/TATMediaCenter+Native.h</key>
 		<data>
-		Qi0bzB1BgBbDjU1Eo1Vey/oR7ds=
+		SoCKbZ6c7l2TWZMQ7vlb86MUcXs=
 		</data>
 		<key>Headers/TATMediaCenter+Standard.h</key>
 		<data>
@@ -71,11 +71,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			MHEj+Qfk+OQekVViFSyGsh0i5aM=
+			N7apBf2WrPdaiKeez87dHJuV1hg=
 			</data>
 			<key>hash2</key>
 			<data>
-			XILAS/zsC4sDZ8KrnP+tB0VMPU+RGrApRi63ZoreiLc=
+			chvMo7TMqWBdgN7lLg0SV3wP5kI6OZ0EMelB9DjBy3M=
 			</data>
 		</dict>
 		<key>Headers/TATBaseAdView.h</key>
@@ -148,11 +148,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Qi0bzB1BgBbDjU1Eo1Vey/oR7ds=
+			SoCKbZ6c7l2TWZMQ7vlb86MUcXs=
 			</data>
 			<key>hash2</key>
 			<data>
-			RcYGWzzZBZjxc2OMLPNXTYrfnJfb+5R7gWN3I7efK94=
+			dDQj0K23+ROiWnOIUq14w+MLlHVhn0lbXVcKzAowszg=
 			</data>
 		</dict>
 		<key>Headers/TATMediaCenter+Standard.h</key>
