@@ -47,11 +47,16 @@
 
 + (void)fetchNativeAdResourceBySlotId:(NSString *)slotId configuration:(TATAdConfiguration *)adConfig resultBlock:(void(^)(UIImage *image, NSString *exposureUrl, NSError *error))resultBlock;
 
+/**
+* 原生插屏AD素材曝光上报
+* @param exposureUrl 曝光事件上报URL，获取入口素材的接口返回
+*/
++ (void)reportNativeAdExposureWithURL:(NSString *)exposureUrl;
 
 /**
-* 设置设备号，可不传
+* 设置设备号，可不传（已废弃）
 * @param deviceId 默认使用iOS设备的device id
 */
-+ (void)setDeviceId:(NSString *)deviceId;
++ (void)setDeviceId:(NSString *)deviceId DEPRECATED_MSG_ATTRIBUTE("Please set userId instead");
 
 @end
