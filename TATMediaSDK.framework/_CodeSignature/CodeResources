@@ -16,6 +16,10 @@
 		<data>
 		lu9JpQ3Vh3fZZZd9pA2h4tFBy6k=
 		</data>
+		<key>Headers/TATFloatUpgradeAdConfiguration.h</key>
+		<data>
+		3yDzRfTB/Qm4a/2jrvc1osUWpxk=
+		</data>
 		<key>Headers/TATInfoFlowAdConfiguration.h</key>
 		<data>
 		KH5SxXLcQgZ1mKQlObCyehUhTBs=
@@ -27,6 +31,10 @@
 		<key>Headers/TATMediaCenter+Custom.h</key>
 		<data>
 		6c6bRfUdDVWKBuy40UGlrqN9j4o=
+		</data>
+		<key>Headers/TATMediaCenter+FloatUpgrade.h</key>
+		<data>
+		LFGFa6O/ovPWVJO9BTGSaksiw84=
 		</data>
 		<key>Headers/TATMediaCenter+Interstitial.h</key>
 		<data>
@@ -50,7 +58,7 @@
 		</data>
 		<key>Headers/TATMediaSDK.h</key>
 		<data>
-		Bcboh7HIs7q9NZeGypgCBSf3G5Q=
+		k38gSH4X3ywTr/HkKC0uoXrb1h4=
 		</data>
 		<key>Headers/TATTextLinkAdConfiguration.h</key>
 		<data>
@@ -58,7 +66,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		XfMFUTWjWcIBR4I9n8ZcaIwkAv4=
+		Oxs0IeutL7ygwOSQW26/SrsFKCY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -100,6 +108,17 @@
 			dqRWJJ7e2CsBsMjzV69nkOuopSJ7ZG2jt2WoseQOpo4=
 			</data>
 		</dict>
+		<key>Headers/TATFloatUpgradeAdConfiguration.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			3yDzRfTB/Qm4a/2jrvc1osUWpxk=
+			</data>
+			<key>hash2</key>
+			<data>
+			x4PRfu/HyZeg6/+aj9BbzS/bUFGxrDzuUh5WmRsy5gs=
+			</data>
+		</dict>
 		<key>Headers/TATInfoFlowAdConfiguration.h</key>
 		<dict>
 			<key>hash</key>
@@ -131,6 +150,17 @@
 			<key>hash2</key>
 			<data>
 			9/c4dPEJKfI6DZ0tcGTxt2jED557yVBrxTfdLpho5sc=
+			</data>
+		</dict>
+		<key>Headers/TATMediaCenter+FloatUpgrade.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LFGFa6O/ovPWVJO9BTGSaksiw84=
+			</data>
+			<key>hash2</key>
+			<data>
+			Xt12m5Nrt3pkkPi9dC3yRMcIa9ZHZnBITWFmcAECFKE=
 			</data>
 		</dict>
 		<key>Headers/TATMediaCenter+Interstitial.h</key>
@@ -192,11 +222,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Bcboh7HIs7q9NZeGypgCBSf3G5Q=
+			k38gSH4X3ywTr/HkKC0uoXrb1h4=
 			</data>
 			<key>hash2</key>
 			<data>
-			Vzo9pd00Ii8tEt8pOICO+lYYdl3rA5KWw01kmrZOLuk=
+			qpqP7BWMFIBZKJY7eM8aDR4DWl3l6KOAfh9lp/b0YCQ=
 			</data>
 		</dict>
 		<key>Headers/TATTextLinkAdConfiguration.h</key>

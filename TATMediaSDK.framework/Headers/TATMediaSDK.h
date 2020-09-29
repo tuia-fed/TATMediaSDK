@@ -19,6 +19,8 @@
 #import "TATInfoFlowAdConfiguration.h"
 #import "TATTextLinkAdConfiguration.h"
 #import "TATMediaCenter+TextLink.h"
+#import "TATMediaCenter+FloatUpgrade.h"
+#import "TATFloatUpgradeAdConfiguration.h"
 
 //! Project version number for TATMediaSDK.
 FOUNDATION_EXPORT double TATMediaSDKVersionNumber;
