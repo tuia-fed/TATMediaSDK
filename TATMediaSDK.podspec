@@ -11,7 +11,8 @@ Pod::Spec.new do |s|
   
   s.ios.deployment_target = '9.0'
 
-  s.pod_target_xcconfig = { 'VALID_ARCHS[sdk=iphonesimulator*]' => '' }
+  s.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
+  s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
   s.vendored_frameworks = 'TATMediaSDK.framework'
   s.resources = 'TATMediaSDK.bundle'
 
