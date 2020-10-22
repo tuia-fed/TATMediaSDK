@@ -47,10 +47,7 @@ NS_ASSUME_NONNULL_BEGIN
  文字链图片与文字（都有时）的间距，默认8
  */
 @property (nonatomic, assign) CGFloat imageTextMargin;
-/**
- 广告图片缩放模式，默认UIViewContentModeScaleAspectFill
- */
-@property (nonatomic, assign) UIViewContentMode contentMode;
+
 
 + (TATTextLinkAdConfiguration *)defaultConfiguration;
 

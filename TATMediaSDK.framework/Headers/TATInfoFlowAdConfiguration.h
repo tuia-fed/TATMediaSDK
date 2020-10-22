@@ -39,10 +39,7 @@ NS_ASSUME_NONNULL_BEGIN
  图片与文字的上下边距(大图、三图)，默认16
  */
 @property (nonatomic, assign) CGFloat verticalMargin;
-/**
- 广告图片缩放模式，默认UIViewContentModeScaleAspectFill
- */
-@property (nonatomic, assign) UIViewContentMode contentMode;
+
 
 + (TATInfoFlowAdConfiguration *)defaultConfiguration;
 

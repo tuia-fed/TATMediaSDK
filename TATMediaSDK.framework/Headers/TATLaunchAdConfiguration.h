@@ -28,10 +28,7 @@ typedef NS_ENUM(NSInteger, TATLaunchSourceType) {
  等待广告数据的时间，默认为3，单位：秒
  */
 @property (nonatomic, assign) NSInteger waitDuration;
-/**
- 图片广告缩放模式，默认UIViewContentModeScaleAspectFill
- */
-@property (nonatomic, assign) UIViewContentMode contentMode;
+
 /**
  启动图设置类型，默认launchImage
  */

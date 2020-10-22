@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/TATAdConfiguration.h</key>
 		<data>
-		N7apBf2WrPdaiKeez87dHJuV1hg=
+		spxPRbJwF6oRyfRRXNm8Gi6J3xA=
 		</data>
 		<key>Headers/TATBaseAdView.h</key>
 		<data>
@@ -22,11 +22,11 @@
 		</data>
 		<key>Headers/TATInfoFlowAdConfiguration.h</key>
 		<data>
-		KH5SxXLcQgZ1mKQlObCyehUhTBs=
+		H/43ZE7K9igbdga9pvGO74pH9Sc=
 		</data>
 		<key>Headers/TATLaunchAdConfiguration.h</key>
 		<data>
-		+9u2JPNXOBi7GpiYolFojO35sxE=
+		qwop8m5/jku2655Mz8ngwIzwKsc=
 		</data>
 		<key>Headers/TATMediaCenter+Custom.h</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Headers/TATTextLinkAdConfiguration.h</key>
 		<data>
-		UTAqvaUbKpI1NNVCsgOsfcA1GiE=
+		mdu0yGh1m63QwMSA2oMQz06HUr0=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -79,11 +79,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			N7apBf2WrPdaiKeez87dHJuV1hg=
+			spxPRbJwF6oRyfRRXNm8Gi6J3xA=
 			</data>
 			<key>hash2</key>
 			<data>
-			chvMo7TMqWBdgN7lLg0SV3wP5kI6OZ0EMelB9DjBy3M=
+			JdYu55Tk1IHNdhFdrZyVFZ/bVeoi//4jEfU+Cg5SuUM=
 			</data>
 		</dict>
 		<key>Headers/TATBaseAdView.h</key>
@@ -123,22 +123,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			KH5SxXLcQgZ1mKQlObCyehUhTBs=
+			H/43ZE7K9igbdga9pvGO74pH9Sc=
 			</data>
 			<key>hash2</key>
 			<data>
-			AqX6bUXanmuwbFRm+CEPDJwh8VcEXBJ95kQ2Zks/SCk=
+			SI/g9eiah3Y44c6n7H0RT3JTfIoqmBAcF03SrnyxWGk=
 			</data>
 		</dict>
 		<key>Headers/TATLaunchAdConfiguration.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+9u2JPNXOBi7GpiYolFojO35sxE=
+			qwop8m5/jku2655Mz8ngwIzwKsc=
 			</data>
 			<key>hash2</key>
 			<data>
-			b0JHyd7+Kdd3r/vMwvtqpmJNZ/1iD3sEBnaeI0k5l2Q=
+			QvfNeOxB9UPKnnh67oLCXjScfeQ/3K+YDgTSsO7OgWQ=
 			</data>
 		</dict>
 		<key>Headers/TATMediaCenter+Custom.h</key>
@@ -233,11 +233,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			UTAqvaUbKpI1NNVCsgOsfcA1GiE=
+			mdu0yGh1m63QwMSA2oMQz06HUr0=
 			</data>
 			<key>hash2</key>
 			<data>
-			TVq4+aylqMgANe3m22AQWAQJqd4jxRFfQ8zVt+WYgz8=
+			trIVO3IJvS8Tg+KiKs+OfJMXBWglYASheOV2+47YHc0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
