@@ -43,6 +43,20 @@
 + (TATBaseAdView *)initSimpleAdWithSlotId:(NSString *)slotId configuration:(TATAdConfiguration *)adConfig resultBlock:(void(^)(BOOL result, NSError *error))resultBlock;
 
 /**
+ * icon等类型的AD
+ */
++ (TATBaseAdView *)initIconAdWithSlotId:(NSString *)slotId resultBlock:(void(^)(BOOL result, NSError *error))resultBlock;
+/**
+ * icon等类型的AD，带close block
+ */
++ (TATBaseAdView *)initIconAdWithSlotId:(NSString *)slotId configuration:(TATAdConfiguration *)adConfig resultBlock:(void(^)(BOOL result, NSError *error))resultBlock;
+/**
+ * icon等类型的AD，带close block
+ */
++ (TATBaseAdView *)initIconAdWithSlotId:(NSString *)slotId resultBlock:(void(^)(BOOL result, NSError *error))resultBlock closeBlock:(void(^)(void))closeBlock;
+
+
+/**
  * 信息流AD
  * @version V2.0
  */
