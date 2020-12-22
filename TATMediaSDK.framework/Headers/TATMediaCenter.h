@@ -72,6 +72,10 @@ typedef void(^TATCloseH5Block)(NSString * _Nullable slotId);
  */
 + (void)userAuthDataCollection:(BOOL)authFlag;
 
+
+/// 请求IDFA授权，此接口仅在iOS 14且在Info.plist中配置了IDFA请求授权的情况下才会像用户弹窗请求IDFA授权，用户同意或拒绝都不会再弹出弹框，只有在未请求授权的时候弹出一次弹窗，媒体也可以自己实现IDFA请求
++ (void)requestIDFAAuthorization;
+
 @end
 
 NS_ASSUME_NONNULL_END
