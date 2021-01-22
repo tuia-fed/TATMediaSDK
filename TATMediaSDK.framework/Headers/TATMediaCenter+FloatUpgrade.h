@@ -15,11 +15,6 @@
 @interface TATMediaCenter(FloatUpgrade)
 
 /**
- * 悬浮升级AD
- * @version V3.0.2.0
- */
-+ (TATBaseAdView *)showFloatAdWithSlotId:(NSString *)slotId onViewController:(UIViewController *)parentViewController resultBlock:(void(^)(BOOL result, NSError *error))resultBlock;
-/**
 * 悬浮升级AD
 * @version V3.0.2.0
 */
