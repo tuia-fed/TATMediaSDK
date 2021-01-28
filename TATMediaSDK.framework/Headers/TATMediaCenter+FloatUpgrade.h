@@ -25,5 +25,13 @@
  */
 + (void)bringViewToFront:(TATBaseAdView *)floatAdView;
 
+
+/**
+ * 主动移除掉悬浮升级广告view
+ * @param floatAdView 要移除的悬浮视图
+ * @version V3.0.8.2
+ */
++ (BOOL)removeFloatAdView:(TATBaseAdView *)floatAdView;
+
 @end
 
