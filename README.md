@@ -1,6 +1,12 @@
 # TATMediaSDK版本更新记录
 
 
+#### Version 3.0.8.2   -2021.01.28
+
+-悬浮升级增加主动移除接口
+-Bugfix and improvements
+
+
 #### Version 3.0.8.1   -2021.01.25
 
 -Bugfix and improvements
