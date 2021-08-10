@@ -28,11 +28,14 @@ typedef NS_ENUM(NSInteger, TATLaunchSourceType) {
  等待广告数据的时间，默认为3，单位：秒
  */
 @property (nonatomic, assign) NSInteger waitDuration;
-
 /**
  启动图设置类型，默认launchImage
  */
 @property (nonatomic, assign) TATLaunchSourceType sourceType;
+/**
+ 跳转广告的提示文案，默认为：“点击跳转详情页面”
+ */
+@property (nonatomic, copy) NSString *detailButtonTitle;
 
 + (TATLaunchAdConfiguration *)defaultConfiguration;
 
